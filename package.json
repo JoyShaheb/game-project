@@ -1,0 +1,11 @@
+{
+  "name": "bmdzw",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {
+    "node-sass": "5.0.0",
+    "phaser": "3.52.0"
+  }
+}
